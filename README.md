@@ -8,7 +8,7 @@
 
 它把 PC 或工业设备上常见的 RS232 串口（±3 V ~ ±15 V 双极性信号），转换成单片机 / 嵌入式设备常用的 TTL / UART 逻辑电平（0 V ~ VCC 单极性信号），也可以反向转换。体积小巧（约 40 mm × 26 mm），适合调试、刷机、工控通信等场景。
 
-<img src="C:\Users\20621\AppData\Roaming\Typora\typora-user-images\image-20260930084241626.png" alt="image-20260930084241626" style="zoom:80%;" />
+<img src="images/image-20260930084241626.png" alt="模块 3D 效果图" />
 
 > **什么是 RS232 与 TTL？**
 > - **RS232**：用负电压表示逻辑「1」、正电压表示逻辑「0」，典型为 ±12 V，是 PC 传统串口（DB9）的电平标准。
@@ -31,9 +31,9 @@
 
 ## 原理说明
 
-<img src="C:\Users\20621\AppData\Roaming\Typora\typora-user-images\image-20260930083922272.png" alt="image-20260930083922272" style="zoom:67%;" />
+<img src="images/image-20260930083922272.png" alt="原理图" />
 
-<img src="C:\Users\20621\AppData\Roaming\Typora\typora-user-images\image-20260930084020926.png" alt="image-20260930084020926" style="zoom: 80%;" />
+<img src="images/image-20260930084020926.png" alt="PCB 布线" />
 
 ### 电平标准对比
 
